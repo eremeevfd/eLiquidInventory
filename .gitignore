@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+Будет удалено .gitignore
+Будет удалено .idea/
+Будет удалено __pycache__/
+Будет удалено app/__pycache__/
+Будет удалено app/db_repository/versions/004_migration.py
+Будет удалено app/db_repository/versions/005_migration.py
+Будет удалено website/
